@@ -1,3 +1,8 @@
+## HELLO, Here is the link to my Github Page. Sorry, I intially assummed you would be able to see the page by clicking on just the github link, but now I realize you would have to go to settings. Here is the link:
+https://zaynahw.github.io/zaynah-dev-bootcamp-takehome-spr26/
+
+
+
 ## Introduction
 
 Hello 👋 thank you for showing your interest in Bits of Good! This take home assessment will assess your basic web development skills. The bootcamp generally requires having some knowledge beforehand in HTML/CSS to be successful, so this assessment will serve as a reflection of your ability to work with HTML/CSS.
